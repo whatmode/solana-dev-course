@@ -36,3 +36,4 @@ yarn-error.log*
 
 # keypair
 generate-keypair/.env
+ping-program/.env
